@@ -3,10 +3,7 @@
 ![enter image description here](https://avatars.githubusercontent.com/u/54281267?s=280&v=4)
 
 ## Dev Environment
-
-
-
- - to download Java  and the [Developer Kit](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) 
+ - to download Java and the [Developer Kit](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) 
  - to download [Intellij Comunity Edition](https://www.jetbrains.com/idea/download/#section=windows)
  - list of usefull [shortcuts for Intellij](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf) 
 
@@ -18,7 +15,7 @@
 
 ## Git
 - usefull commands for [Git](https://education.github.com/git-cheat-sheet-education.pdf)
-- Teaching Team: [Shubham](https://github.com/shubham0794x) ,[Jaume](https://github.com/jaume-ironhack) , [Salvatore](https://github.com/scorsaro-ironhack)
+- Teaching Team: [Victor](https://github.com/GazzD) ,[Iván](https://github.com/IvanTrujillo-Ironhack) , [Adrià](https://github.com/AdriaLopez-Ironhack)
 
 ## Unix
 - usefull commands for [Unix terminal](https://www-users.york.ac.uk/~pjh503/commands.html)
