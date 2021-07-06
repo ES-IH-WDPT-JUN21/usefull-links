@@ -4,7 +4,7 @@
 
 ## Repository Naming Conventions
 - homework = ['homework-' + homework_number]-[team name] (private) e.g. homework-3-TheExceptionalists
-- lab = [lab number]-[your git-username] (private) e.g. 2.04-MyGitUsername
+- lab = lab-[lab number]-[your git-username] (private) e.g. lab-2.04-MyGitUsername
 
 ## Labs Solution
 - [Lab Soln](https://docs.google.com/spreadsheets/d/1tpw8vD7zLjgnOP7_95Lr8erMxbR1I3fnPhFler4UEJc/edit#gid=0)  
