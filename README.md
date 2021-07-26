@@ -31,7 +31,6 @@
 | 17th July | Joins and Spring Boot | https://ironhack.zoom.us/rec/play/8LdK5JRJLUd02WgoAhyyY-QiUE_SwIwvGTBcviL-FPIqlk0UEdx[…]uB8pZ.a85dvrs6H3q1PMXC?autoplay=true&startTime=1626504988000 |
 | 20th July | Anotaciones JPA | https://ironhack.zoom.us/rec/play/hOs-7tmBp87jn3PhOxp-sILsDe27kZpgVnNNNx7SnAxGB6VqQ1o[…]8UIVR.Y9uqbd38nruBMVaC?autoplay=true&startTime=1626798483000 |
 | 22th July | JPQL | https://ironhack.zoom.us/rec/play/N84S923DJN_TazLG1GYh6QlTGIE7Hj-Q0QQVu23bImPTuD4u7jg[…]Ms9ht.enHDM5sm51D7Obhu?autoplay=true&startTime=1626971266000 |
-autoplay=true&startTime=1626798483000 |
 | 24th July | Herencia en JPA | https://ironhack.zoom.us/rec/play/sQIEX-Hxtl5ImvCfG-8cw0HlShCxFuel1t1M8TfI2mgc1Fh-nGb[…]F4wuZ.RrDex6NtpLSF3Vdz?autoplay=true&startTime=1627109573000 |
 
 
