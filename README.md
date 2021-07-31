@@ -32,6 +32,8 @@
 | 20th July | Anotaciones JPA | https://ironhack.zoom.us/rec/play/hOs-7tmBp87jn3PhOxp-sILsDe27kZpgVnNNNx7SnAxGB6VqQ1o[…]8UIVR.Y9uqbd38nruBMVaC?autoplay=true&startTime=1626798483000 |
 | 22th July | JPQL | https://ironhack.zoom.us/rec/play/N84S923DJN_TazLG1GYh6QlTGIE7Hj-Q0QQVu23bImPTuD4u7jg[…]Ms9ht.enHDM5sm51D7Obhu?autoplay=true&startTime=1626971266000 |
 | 24th July | Herencia en JPA | https://ironhack.zoom.us/rec/play/sQIEX-Hxtl5ImvCfG-8cw0HlShCxFuel1t1M8TfI2mgc1Fh-nGb[…]F4wuZ.RrDex6NtpLSF3Vdz?autoplay=true&startTime=1627109573000 |
+| 27th July | Relationship Mapping, Fetching | https://ironhack.zoom.us/rec/play/5hlgtP1W8v8oLo9wH9yI6Ly8HaEjEKEuU0zJJ-Ml5x20j8rAx3jpqxTE6uOjL6GF2VAEY8DMw5y6KOb3.E3ylxkA8tczWOpl8?autoplay=true&startTime=1627403274000 |
+| 29th July | Repaso de Relationships, Many-to-Many, Ejercicio clase, assessment tips | https://ironhack.zoom.us/rec/play/K_x2EUttYmvr959a1IzMOXdir1uJXgtGZLtSzL2cZfqtK-4zBs-Owhl-By7lwp8IFzneKLjXukRMKioG.OLhwQfAmeHTVM4vz?autoplay=true&startTime=1627576128000 |
 
 
 ## Peer Review Schedule
