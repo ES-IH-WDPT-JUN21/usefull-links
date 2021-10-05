@@ -37,6 +37,14 @@
 | 24th August | Repaso últimos conceptos, REST API  | https://ironhack.zoom.us/rec/play/GMIxr6vzSBQ6GBbda1VBaWhDes2SN4eZOxxIXtQG449P1OGkBZQ[…]tbkR3.HkHp__DqmwhW8i-g?autoplay=true&startTime=1629822471000 |
 | 26th August | Postman, HTTP Status codes, GetMapping | https://ironhack.zoom.us/rec/play/gakPlWuLK3Li4pN-PEoPjZ9N5Bs7RPqO8tqaOIY0IbdGe7X9ydn[…]deff3.4sWptH5XYXXcKOBJ?autoplay=true&startTime=1629995302000 |
 | 28th August | RequestMapping, PostMapping, PatchMapping, DeleteMapping | https://ironhack.zoom.us/rec/play/Y7PDFP-B8Bo1h1wXR9TODMhIZ27Bq41FnhuQ1znZeIGWuLmU7Wm[…]yLYxG.SmhHD7TFh3aZYsB0?autoplay=true&startTime=1630133905000 |
+| 31st August | --- | https://ironhack.zoom.us/rec/play/YRBtzQsM9Kbnip70DlaJp4kRu8ai3fx8Vm0QNkQX3vR2k2gbmgr-1crMBCjts2jq7hnYO01tTwX-IJoR.KOpUGY801qe_byyu?autoplay=true&startTime=1630427248000 |
+| 2nd September | --- | https://ironhack.zoom.us/rec/play/piGdUvaHU5s6JJZAtDi3Y4sI2spCpJ9pM42PPYsIUAhOP2pxHvSHgIYm_VDAs9k5qMJPA7cPaAXtYVR2.WJSpH6csTZVhLz0Y?autoplay=true&startTime=1630599915000 |
+| 4th September | --- | https://ironhack.zoom.us/rec/play/uugqQBSwowTD84NE1HGf55aI0GYCG0Q1ORY70ZWQhRHCQEOGsG7_Omi8HrVsCA9V0FRsvyEMD8D6EGXq.5GTBd_WXeNjke_Ue?autoplay=true&startTime=1630738525000 |
+| 9th September | --- | https://ironhack.zoom.us/rec/play/l4GdMscUvfi9iF2YPVeIqGeqj55bSzVvE-D47mNjgRtm_Gyznv8xs9jtmmB2YotltNHIXBDxg6bPIrdw.OSIQOdLsXwEJxr7O?autoplay=true&startTime=1631204883000 |
+| 28th September | Microservices, Service Discovery | https://ironhack.zoom.us/rec/play/UIFZxX9NSNXNJ6w3OC-wtOivZq3rpUyOw2a73DYKcz_8lcbMhZjohdXNezA8KUYTmH9cxEdVbzQjgv88.Ib4xcoz02jAYGBY3?autoplay=true&startTime=1632846341000 |
+| 30th September | Microservices | https://ironhack.zoom.us/rec/play/xdNblebRwdHU0QSTSZ28l5cfwoUG5lSikCxy2kDbGp7CCwgLUQQk-x0WLd0Iuu8eC8Z31hX0oQUoBiMZ.OM2QdInc1Pk4eV78?autoplay=true&startTime=1633019331000 |
+| 2nd October | OpenFeign, Spring Cloud LoadBalancer | https://ironhack.zoom.us/rec/play/2VF9cnSczNLjJx8yVAhVSkYMKoCl1Ll6FzTD_Z4cvnuftD7y7IGammcjj2CHYYrzZEheiR_niqLMlbaX.CgvOV2Xm3tUf0WYg?autoplay=true&startTime=1633157862000 |
+
 
 
 ## Peer Review Schedule
