@@ -46,7 +46,9 @@
 | 2nd October | OpenFeign, Spring Cloud LoadBalancer | https://ironhack.zoom.us/rec/play/2VF9cnSczNLjJx8yVAhVSkYMKoCl1Ll6FzTD_Z4cvnuftD7y7IGammcjj2CHYYrzZEheiR_niqLMlbaX.CgvOV2Xm3tUf0WYg?autoplay=true&startTime=1633157862000 |
 | 5th October | Circuit Breaker | https://ironhack.zoom.us/rec/play/s4rx2HKBxFAEMFGpP0HdoEZV5OCbsd5YtewhILwqUNVGMkBU272[…]L1xQF.Hh6D-rvlro1T5rrc?autoplay=true&startTime=1633451181000 |
 | 7th October | Externalizing Configuration | https://ironhack.zoom.us/rec/play/Mz2dzsZuw6kDGwLnMrEMrH7il5XuMyP3YbRLkaJ4VU39LsGVOyY[…]5nX42.3okmsBsCsCKXkhnT?autoplay=true&startTime=1633624085000 |
-
+| 9th October | --- | https://ironhack.zoom.us/rec/play/6L9kmy3xHoJC92Z90-fulldUaeWceb8BlXqygOagoAJ_JUNzEEKD98VGpvD8t9BPdovInNtKbdrrKF90.0cPIPVc7_xt-P2b2?autoplay=true&startTime=1633762738000 |
+| 14th October | --- | https://ironhack.zoom.us/rec/play/AVUX_Y99mb47uP0BSuK1qIygy8lNBj6Sk7PGZGh7YY2obhUR3MTJkZWfGdSDYfGSfJKGafw-iOcXljT8.IBX79TMbC2BZXORH?autoplay=true&startTime=1634228795000 |
+| 16th October | Intro to TypeScript, Angular Set up | https://ironhack.zoom.us/rec/play/oEr3tBjXqureGzZWnQfJS6TPFuSVRBe4SKozS2tTbQN-2136XXJiEXyU5hfhu4HG4sE3f22WOXWYF3vD.w0pbr-e7sl2TUsEo?autoplay=true&startTime=1634367398000 |
 
 
 ## Peer Review Schedule
