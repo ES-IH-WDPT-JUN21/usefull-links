@@ -44,10 +44,8 @@
 | 28th September | Microservices, Service Discovery | https://ironhack.zoom.us/rec/play/UIFZxX9NSNXNJ6w3OC-wtOivZq3rpUyOw2a73DYKcz_8lcbMhZjohdXNezA8KUYTmH9cxEdVbzQjgv88.Ib4xcoz02jAYGBY3?autoplay=true&startTime=1632846341000 |
 | 30th September | Microservices | https://ironhack.zoom.us/rec/play/xdNblebRwdHU0QSTSZ28l5cfwoUG5lSikCxy2kDbGp7CCwgLUQQk-x0WLd0Iuu8eC8Z31hX0oQUoBiMZ.OM2QdInc1Pk4eV78?autoplay=true&startTime=1633019331000 |
 | 2nd October | OpenFeign, Spring Cloud LoadBalancer | https://ironhack.zoom.us/rec/play/2VF9cnSczNLjJx8yVAhVSkYMKoCl1Ll6FzTD_Z4cvnuftD7y7IGammcjj2CHYYrzZEheiR_niqLMlbaX.CgvOV2Xm3tUf0WYg?autoplay=true&startTime=1633157862000 |
-| 5th October | Circuit Breaker | 
-https://ironhack.zoom.us/rec/play/s4rx2HKBxFAEMFGpP0HdoEZV5OCbsd5YtewhILwqUNVGMkBU272[…]L1xQF.Hh6D-rvlro1T5rrc?autoplay=true&startTime=1633451181000 |
-| 7th October | Externalizing Configuration | 
-https://ironhack.zoom.us/rec/play/Mz2dzsZuw6kDGwLnMrEMrH7il5XuMyP3YbRLkaJ4VU39LsGVOyY[…]5nX42.3okmsBsCsCKXkhnT?autoplay=true&startTime=1633624085000 |
+| 5th October | Circuit Breaker | https://ironhack.zoom.us/rec/play/s4rx2HKBxFAEMFGpP0HdoEZV5OCbsd5YtewhILwqUNVGMkBU272[…]L1xQF.Hh6D-rvlro1T5rrc?autoplay=true&startTime=1633451181000 |
+| 7th October | Externalizing Configuration | https://ironhack.zoom.us/rec/play/Mz2dzsZuw6kDGwLnMrEMrH7il5XuMyP3YbRLkaJ4VU39LsGVOyY[…]5nX42.3okmsBsCsCKXkhnT?autoplay=true&startTime=1633624085000 |
 
 
 
