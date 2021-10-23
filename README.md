@@ -51,7 +51,7 @@
 | 16th October | Intro to TypeScript, Angular Set up | https://ironhack.zoom.us/rec/play/oEr3tBjXqureGzZWnQfJS6TPFuSVRBe4SKozS2tTbQN-2136XXJiEXyU5hfhu4HG4sE3f22WOXWYF3vD.w0pbr-e7sl2TUsEo?autoplay=true&startTime=1634367398000 |
 | 19th October | String Interpolation | https://ironhack.zoom.us/rec/share/_ecq5NCimJip0WNsneWBRXkShYFj_rX4LjU-DEJ9Ejabq95XYQQu-XvwT8dGMPk3.Fb6ks_iGCveC8CBH?startTime=1634660982000 |
 | 21th October | Two Way Data Binding | https://ironhack.zoom.us/rec/share/dWvHvAGGdC9zzWiarsDZcSIwPEc9Dha2aQtrslOgaascZzmSejIpoc3_OUQ6F7Qt.303wsq6rRXYFdABL?startTime=1634833808000 |
-
+| 23th October | NgFor, NgClass, Models | https://ironhack.zoom.us/rec/share/QFEsB4T-ZgkHpYASViP0sHZYbJEkOE0tWRb7DTMgO2OAI-aevvPWjfjwt3fCQH8.opGBSmnvUF3vcaYq?startTime=1634972135000 |
 
 
 ## Peer Review Schedule
