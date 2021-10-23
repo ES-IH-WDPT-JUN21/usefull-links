@@ -49,8 +49,8 @@
 | 9th October | --- | https://ironhack.zoom.us/rec/play/6L9kmy3xHoJC92Z90-fulldUaeWceb8BlXqygOagoAJ_JUNzEEKD98VGpvD8t9BPdovInNtKbdrrKF90.0cPIPVc7_xt-P2b2?autoplay=true&startTime=1633762738000 |
 | 14th October | --- | https://ironhack.zoom.us/rec/play/AVUX_Y99mb47uP0BSuK1qIygy8lNBj6Sk7PGZGh7YY2obhUR3MTJkZWfGdSDYfGSfJKGafw-iOcXljT8.IBX79TMbC2BZXORH?autoplay=true&startTime=1634228795000 |
 | 16th October | Intro to TypeScript, Angular Set up | https://ironhack.zoom.us/rec/play/oEr3tBjXqureGzZWnQfJS6TPFuSVRBe4SKozS2tTbQN-2136XXJiEXyU5hfhu4HG4sE3f22WOXWYF3vD.w0pbr-e7sl2TUsEo?autoplay=true&startTime=1634367398000 |
-| 19th October | String Interpolation, Two Way Data Binding | https://ironhack.zoom.us/rec/share/_ecq5NCimJip0WNsneWBRXkShYFj_rX4LjU-DEJ9Ejabq95XYQQu-XvwT8dGMPk3.Fb6ks_iGCveC8CBH?startTime=1634660982000 |
-| 21th October | NgFor & NgClass, Models | https://ironhack.zoom.us/rec/share/dWvHvAGGdC9zzWiarsDZcSIwPEc9Dha2aQtrslOgaascZzmSejIpoc3_OUQ6F7Qt.303wsq6rRXYFdABL?startTime=1634833808000 |
+| 19th October | String Interpolation | https://ironhack.zoom.us/rec/share/_ecq5NCimJip0WNsneWBRXkShYFj_rX4LjU-DEJ9Ejabq95XYQQu-XvwT8dGMPk3.Fb6ks_iGCveC8CBH?startTime=1634660982000 |
+| 21th October | Two Way Data Binding | https://ironhack.zoom.us/rec/share/dWvHvAGGdC9zzWiarsDZcSIwPEc9Dha2aQtrslOgaascZzmSejIpoc3_OUQ6F7Qt.303wsq6rRXYFdABL?startTime=1634833808000 |
 
 
 
