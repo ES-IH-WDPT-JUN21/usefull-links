@@ -53,6 +53,8 @@
 | 21th October | Two Way Data Binding | https://ironhack.zoom.us/rec/share/dWvHvAGGdC9zzWiarsDZcSIwPEc9Dha2aQtrslOgaascZzmSejIpoc3_OUQ6F7Qt.303wsq6rRXYFdABL?startTime=1634833808000 |
 | 23th October | NgFor, NgClass, Models | https://ironhack.zoom.us/rec/share/QFEsB4T-ZgkHpYASViP0sHZYbJEkOE0tWRb7DTMgO2OAI-aevvPWjfjwt3fCQH8.opGBSmnvUF3vcaYq?startTime=1634972135000 |
 | 26th October | Communication between components | https://ironhack.zoom.us/rec/share/lSTMSiJg7pKrlvE0mmKk0N5u6uO5j2ziCmOK-jMEkdi1Tecyrgt8BoMLCVRSIhWK.XE-EpmmV_fgvLCj7?startTime=1635265701000 |
+| 28th October (1) | Rest API Integration | https://ironhack.zoom.us/rec/share/K7iTyYBo4dCTBgsqlgUtTUit7-v5uBWvZewqM-JtohsSaKJIYBkLTb6BHw7UlbXc.n4IlXH1PbKw-QqIn?startTime=1635438456000 |
+| 28th October (2) | Rest API Integration | https://ironhack.zoom.us/rec/share/K7iTyYBo4dCTBgsqlgUtTUit7-v5uBWvZewqM-JtohsSaKJIYBkLTb6BHw7UlbXc.n4IlXH1PbKw-QqIn?startTime=1635443371000 |
 
 
 ## Peer Review Schedule
