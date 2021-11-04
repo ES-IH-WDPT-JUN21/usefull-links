@@ -34,9 +34,9 @@
 | 24th July | Herencia en JPA | https://ironhack.zoom.us/rec/share/pT0U-cg0r-47ADQtUmmsmV0VmuSSEomt-AMQYT5vl6iZ89oAwye46DbKLgizP5AU.46FFu7NW_VrNJtcU?startTime=1627109573000 |
 | 27th July | Relationship Mapping, Fetching | https://ironhack.zoom.us/rec/play/5hlgtP1W8v8oLo9wH9yI6Ly8HaEjEKEuU0zJJ-Ml5x20j8rAx3jpqxTE6uOjL6GF2VAEY8DMw5y6KOb3.E3ylxkA8tczWOpl8?autoplay=true&startTime=1627403274000 |
 | 29th July | Repaso de Relationships, Many-to-Many, Ejercicio clase, assessment tips | https://ironhack.zoom.us/rec/play/K_x2EUttYmvr959a1IzMOXdir1uJXgtGZLtSzL2cZfqtK-4zBs-Owhl-By7lwp8IFzneKLjXukRMKioG.OLhwQfAmeHTVM4vz?autoplay=true&startTime=1627576128000 |
-| 24th August | Repaso últimos conceptos, REST API  | https://ironhack.zoom.us/rec/play/GMIxr6vzSBQ6GBbda1VBaWhDes2SN4eZOxxIXtQG449P1OGkBZQ[…]tbkR3.HkHp__DqmwhW8i-g?autoplay=true&startTime=1629822471000 |
-| 26th August | Postman, HTTP Status codes, GetMapping | https://ironhack.zoom.us/rec/play/gakPlWuLK3Li4pN-PEoPjZ9N5Bs7RPqO8tqaOIY0IbdGe7X9ydn[…]deff3.4sWptH5XYXXcKOBJ?autoplay=true&startTime=1629995302000 |
-| 28th August | RequestMapping, PostMapping, PatchMapping, DeleteMapping | https://ironhack.zoom.us/rec/play/Y7PDFP-B8Bo1h1wXR9TODMhIZ27Bq41FnhuQ1znZeIGWuLmU7Wm[…]yLYxG.SmhHD7TFh3aZYsB0?autoplay=true&startTime=1630133905000 |
+| 24th August | Repaso últimos conceptos, REST API  | https://ironhack.zoom.us/rec/share/PO2_2XSs-eLYvSJ9WwjnsCTxDEQAg0RY3DfAmNGSAYDYdGsm3rq2F57WQF6gBdKe.Vt7u2Ln3Z3mw-qST?startTime=1629822471000 |
+| 26th August | Postman, HTTP Status codes, GetMapping | https://ironhack.zoom.us/rec/share/S_6yTZVQMZPNnqvZQbIiqlWqzWOpXjhxomEsfChVQt2Di4h-dRPH7QKyp_fKgozp.n8yCE5PcK-Q7sBWW?startTime=1629995302000 |
+| 28th August | RequestMapping, PostMapping, PatchMapping, DeleteMapping | https://ironhack.zoom.us/rec/share/BO0S7wuc51YeSJJSGCpPCREl9w9lkyFY4EXYHeeTqUsqkzODoIS2kda0enuGt6pJ.haPhEGo2xUkHMk6Y?startTime=1630133905000 |
 | 31st August | --- | https://ironhack.zoom.us/rec/play/YRBtzQsM9Kbnip70DlaJp4kRu8ai3fx8Vm0QNkQX3vR2k2gbmgr-1crMBCjts2jq7hnYO01tTwX-IJoR.KOpUGY801qe_byyu?autoplay=true&startTime=1630427248000 |
 | 2nd September | --- | https://ironhack.zoom.us/rec/play/piGdUvaHU5s6JJZAtDi3Y4sI2spCpJ9pM42PPYsIUAhOP2pxHvSHgIYm_VDAs9k5qMJPA7cPaAXtYVR2.WJSpH6csTZVhLz0Y?autoplay=true&startTime=1630599915000 |
 | 4th September | --- | https://ironhack.zoom.us/rec/play/uugqQBSwowTD84NE1HGf55aI0GYCG0Q1ORY70ZWQhRHCQEOGsG7_Omi8HrVsCA9V0FRsvyEMD8D6EGXq.5GTBd_WXeNjke_Ue?autoplay=true&startTime=1630738525000 |
