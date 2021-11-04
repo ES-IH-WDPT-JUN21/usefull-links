@@ -27,11 +27,11 @@
 | 8th July | GitHub Org | https://ironhack.zoom.us/rec/play/9jmDx2-w6ixgD_fGJavB_Ayme0MJlHX6rs_fE3qI4q7ASji2fGx5jc1LfHESgjpXs3YmtzoiCtoF2mhu.NUgTYveCUTaAJQrW?autoplay=true&startTime=1625761484000 |
 | 10th July | Homework 2 | https://ironhack.zoom.us/rec/play/jCphOGKcyK9HzBh3pkRlYNE3Jb479uq3Rmkaz5aFjqutcPOBsRLisCppi9C8wsyd_oW7q4WprTko-tDi.OLB0iurNPLhvJ6cm?autoplay=true&startTime=1625900258000 |
 | 13th July | Database Normalization and DDL | https://ironhack.zoom.us/rec/share/gKAMU_ZKjVT1lk5m5WFF8KnewM82BHGSoEjGT6oDLEv5GfNzsmLjM4KSvQl_aLXG.4Zm6-hH9Wg6Jl6ap?startTime=1626193476000 |
-| 15th July | Agregation and Intermediate Queries | https://ironhack.zoom.us/rec/play/DSTk4Cb4jTtrjat9UpU3uojDG7ab8jsfGMcztEHKEJPXV9XpKUI[…]QF1v0.SW-DdtNRu1U-QuF4?autoplay=true&startTime=1626365855000 |
-| 17th July | Joins and Spring Boot | https://ironhack.zoom.us/rec/play/8LdK5JRJLUd02WgoAhyyY-QiUE_SwIwvGTBcviL-FPIqlk0UEdx[…]uB8pZ.a85dvrs6H3q1PMXC?autoplay=true&startTime=1626504988000 |
-| 20th July | Anotaciones JPA | https://ironhack.zoom.us/rec/play/hOs-7tmBp87jn3PhOxp-sILsDe27kZpgVnNNNx7SnAxGB6VqQ1o[…]8UIVR.Y9uqbd38nruBMVaC?autoplay=true&startTime=1626798483000 |
-| 22th July | JPQL | https://ironhack.zoom.us/rec/play/N84S923DJN_TazLG1GYh6QlTGIE7Hj-Q0QQVu23bImPTuD4u7jg[…]Ms9ht.enHDM5sm51D7Obhu?autoplay=true&startTime=1626971266000 |
-| 24th July | Herencia en JPA | https://ironhack.zoom.us/rec/play/sQIEX-Hxtl5ImvCfG-8cw0HlShCxFuel1t1M8TfI2mgc1Fh-nGb[…]F4wuZ.RrDex6NtpLSF3Vdz?autoplay=true&startTime=1627109573000 |
+| 15th July | Agregation and Intermediate Queries | https://ironhack.zoom.us/rec/share/U6Gj5v4ke9pTxrF3ClofjgiNQvM4XgQ1RKIsG41l94fCaxtD5_Iqp__kuIWBZUed.oOo87TrXttQ6Rwy-?startTime=1626365855000 |
+| 17th July | Joins and Spring Boot | https://ironhack.zoom.us/rec/share/dwTp4miKb5J2GZFUfNcvlND49byVdQQ3R9Rta2Sbwt_9-Of-APSNau3qxydcJGi2.t2lMp9PkCjpFk0i-?startTime=1626504988000 |
+| 20th July | Anotaciones JPA | https://ironhack.zoom.us/rec/share/v-WoirboFaPsdR9DstRAN9XSO46f3fnMY7Dug2vFESv9O2cSGl1kYeveJqYrM85G.jG6J8cehmEB2PaFa?startTime=1626798483000 |
+| 22th July | JPQL | https://ironhack.zoom.us/rec/share/QG7du-9qhFKcX5LYFD4ayLS6op9kLMX5WtkxobXxQ5NsBXGL21K5kfg8nGtxu-fy.9J-t46XSqe3h7Dk5?startTime=1626971266000 |
+| 24th July | Herencia en JPA | https://ironhack.zoom.us/rec/share/pT0U-cg0r-47ADQtUmmsmV0VmuSSEomt-AMQYT5vl6iZ89oAwye46DbKLgizP5AU.46FFu7NW_VrNJtcU?startTime=1627109573000 |
 | 27th July | Relationship Mapping, Fetching | https://ironhack.zoom.us/rec/play/5hlgtP1W8v8oLo9wH9yI6Ly8HaEjEKEuU0zJJ-Ml5x20j8rAx3jpqxTE6uOjL6GF2VAEY8DMw5y6KOb3.E3ylxkA8tczWOpl8?autoplay=true&startTime=1627403274000 |
 | 29th July | Repaso de Relationships, Many-to-Many, Ejercicio clase, assessment tips | https://ironhack.zoom.us/rec/play/K_x2EUttYmvr959a1IzMOXdir1uJXgtGZLtSzL2cZfqtK-4zBs-Owhl-By7lwp8IFzneKLjXukRMKioG.OLhwQfAmeHTVM4vz?autoplay=true&startTime=1627576128000 |
 | 24th August | Repaso últimos conceptos, REST API  | https://ironhack.zoom.us/rec/play/GMIxr6vzSBQ6GBbda1VBaWhDes2SN4eZOxxIXtQG449P1OGkBZQ[…]tbkR3.HkHp__DqmwhW8i-g?autoplay=true&startTime=1629822471000 |
