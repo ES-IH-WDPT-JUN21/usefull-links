@@ -44,8 +44,8 @@
 | 28th September | Microservices, Service Discovery | https://ironhack.zoom.us/rec/play/UIFZxX9NSNXNJ6w3OC-wtOivZq3rpUyOw2a73DYKcz_8lcbMhZjohdXNezA8KUYTmH9cxEdVbzQjgv88.Ib4xcoz02jAYGBY3?autoplay=true&startTime=1632846341000 |
 | 30th September | Microservices | https://ironhack.zoom.us/rec/play/xdNblebRwdHU0QSTSZ28l5cfwoUG5lSikCxy2kDbGp7CCwgLUQQk-x0WLd0Iuu8eC8Z31hX0oQUoBiMZ.OM2QdInc1Pk4eV78?autoplay=true&startTime=1633019331000 |
 | 2nd October | OpenFeign, Spring Cloud LoadBalancer | https://ironhack.zoom.us/rec/play/2VF9cnSczNLjJx8yVAhVSkYMKoCl1Ll6FzTD_Z4cvnuftD7y7IGammcjj2CHYYrzZEheiR_niqLMlbaX.CgvOV2Xm3tUf0WYg?autoplay=true&startTime=1633157862000 |
-| 5th October | Circuit Breaker | https://ironhack.zoom.us/rec/play/s4rx2HKBxFAEMFGpP0HdoEZV5OCbsd5YtewhILwqUNVGMkBU272[…]L1xQF.Hh6D-rvlro1T5rrc?autoplay=true&startTime=1633451181000 |
-| 7th October | Externalizing Configuration | https://ironhack.zoom.us/rec/play/Mz2dzsZuw6kDGwLnMrEMrH7il5XuMyP3YbRLkaJ4VU39LsGVOyY[…]5nX42.3okmsBsCsCKXkhnT?autoplay=true&startTime=1633624085000 |
+| 5th October | Circuit Breaker | https://ironhack.zoom.us/rec/share/ywRLR8UIRzJcwbXIJmGFs3BTyqZlUsg2baeGtqvFMlG6UhU-zP97jWUzOL66qkQ.79MxD3ex3U59hsOc?startTime=1633451181000 |
+| 7th October | Externalizing Configuration | https://ironhack.zoom.us/rec/share/_Z4bz6JXHtIFhkOHhuw1MSfJsjnOWl_Em--BQfXt7EUs32hXGp4dcsLOy9P7KARy.hAdbS-GReEiU6izQ?startTime=1633624085000 |
 | 9th October | --- | https://ironhack.zoom.us/rec/play/6L9kmy3xHoJC92Z90-fulldUaeWceb8BlXqygOagoAJ_JUNzEEKD98VGpvD8t9BPdovInNtKbdrrKF90.0cPIPVc7_xt-P2b2?autoplay=true&startTime=1633762738000 |
 | 14th October | --- | https://ironhack.zoom.us/rec/play/AVUX_Y99mb47uP0BSuK1qIygy8lNBj6Sk7PGZGh7YY2obhUR3MTJkZWfGdSDYfGSfJKGafw-iOcXljT8.IBX79TMbC2BZXORH?autoplay=true&startTime=1634228795000 |
 | 16th October | Intro to TypeScript, Angular Set up | https://ironhack.zoom.us/rec/play/oEr3tBjXqureGzZWnQfJS6TPFuSVRBe4SKozS2tTbQN-2136XXJiEXyU5hfhu4HG4sE3f22WOXWYF3vD.w0pbr-e7sl2TUsEo?autoplay=true&startTime=1634367398000 |
