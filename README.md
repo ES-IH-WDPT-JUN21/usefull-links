@@ -26,7 +26,7 @@
 | 6th July | Reviews | https://ironhack.zoom.us/rec/play/m7u8Lit1o9aC5r1LU1rdCL0okb02_mH7kvZgZErsn_CelJc_G9i9P35NsmugXk9LBL_BFFqPu5svLwP1.WAq_0x8-3_n-ejUZ?autoplay=true&startTime=1625588865000 |
 | 8th July | GitHub Org | https://ironhack.zoom.us/rec/play/9jmDx2-w6ixgD_fGJavB_Ayme0MJlHX6rs_fE3qI4q7ASji2fGx5jc1LfHESgjpXs3YmtzoiCtoF2mhu.NUgTYveCUTaAJQrW?autoplay=true&startTime=1625761484000 |
 | 10th July | Homework 2 | https://ironhack.zoom.us/rec/play/jCphOGKcyK9HzBh3pkRlYNE3Jb479uq3Rmkaz5aFjqutcPOBsRLisCppi9C8wsyd_oW7q4WprTko-tDi.OLB0iurNPLhvJ6cm?autoplay=true&startTime=1625900258000 |
-| 13th July | Database Normalization and DDL | https://ironhack.zoom.us/rec/play/1GO8pO6oy1W2pfWw6K6USNWs7ZfoADEnUycVRSNicpzIFcp9p95[…]TH7T2.YC99QzQuHeDx7RFc?autoplay=true&startTime=1626193476000 |
+| 13th July | Database Normalization and DDL | https://ironhack.zoom.us/rec/share/gKAMU_ZKjVT1lk5m5WFF8KnewM82BHGSoEjGT6oDLEv5GfNzsmLjM4KSvQl_aLXG.4Zm6-hH9Wg6Jl6ap?startTime=1626193476000 |
 | 15th July | Agregation and Intermediate Queries | https://ironhack.zoom.us/rec/play/DSTk4Cb4jTtrjat9UpU3uojDG7ab8jsfGMcztEHKEJPXV9XpKUI[…]QF1v0.SW-DdtNRu1U-QuF4?autoplay=true&startTime=1626365855000 |
 | 17th July | Joins and Spring Boot | https://ironhack.zoom.us/rec/play/8LdK5JRJLUd02WgoAhyyY-QiUE_SwIwvGTBcviL-FPIqlk0UEdx[…]uB8pZ.a85dvrs6H3q1PMXC?autoplay=true&startTime=1626504988000 |
 | 20th July | Anotaciones JPA | https://ironhack.zoom.us/rec/play/hOs-7tmBp87jn3PhOxp-sILsDe27kZpgVnNNNx7SnAxGB6VqQ1o[…]8UIVR.Y9uqbd38nruBMVaC?autoplay=true&startTime=1626798483000 |
