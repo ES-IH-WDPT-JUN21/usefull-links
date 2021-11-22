@@ -62,7 +62,10 @@
 |  13th November | Technologies/Methodologies Presentations | https://ironhack.zoom.us/rec/share/DwpGcANWnrtQrQxoxzdSIrYTWiwxbQFLufYi7ENxAU50WFzw_kpcpJqFZdKp_TQI.JOgJoK4lmFVmgbLv?startTime=1636790328000
 
 ## Peer Review Schedule
+### Course's First Half
 ![enter image description here](https://github.com/ES-IH-WDPT-JUN21/usefull-links/blob/main/peerReviewSchedule.png)
+### Course's Second Half
+![enter image description here](https://github.com/ES-IH-WDPT-JUN21/usefull-links/blob/main/peerReviewSchedule2.png)
 
 ## Student Satisfaction 
 - [Questionary](https://ironhack.typeform.com/to/vELPxhbY)
